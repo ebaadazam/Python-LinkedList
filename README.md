@@ -4,4 +4,5 @@ A linked list in Python is a type of linear data structure that is similar to ar
 The first node is called the head, and it’s used as the starting point for any iteration through the list. The last node must have its next reference pointing to None to determine the end of the list. Each element of a linked list is called a node and every node has two different fields:
 - Data that contains the value to be stored in the node.
 - Next that contains a reference to the next node on the list.
-  
+
+Linkedlist are mainly of three types Singly Linkedlist, Doubly Linkedlist and Circular Linkedlist. I have implemented Singly and Doubly Linkedlist in the following repository
